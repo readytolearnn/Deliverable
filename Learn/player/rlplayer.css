@@ -141,7 +141,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='1'] .ap-side-bar{
-	width: 350px;
+	width: 1px;
 	color: rgb(255, 255, 255);
 	font-family: Tahoma;
 	font-size: 13px;
@@ -149,7 +149,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='2'] .ap-side-bar{
-	width: 350px;
+	width: 1px;
 	color: rgb(255, 255, 255);
 	font-family: Tahoma;
 	font-size: 13px;
@@ -157,7 +157,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='3'] .ap-side-bar{
-	width: 350px;
+	width: 1px;
 	color: rgb(255, 255, 255);
 	font-family: Tahoma;
 	font-size: 13px;
@@ -165,7 +165,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='4'] .ap-side-bar{
-	width: 350px;
+	width: 1px;
 	color: rgb(255, 255, 255);
 	font-family: Tahoma;
 	font-size: 13px;
