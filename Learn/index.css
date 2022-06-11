@@ -1,7 +1,7 @@
 /*!
- * ActivePresenter HTML5 Output File
- * Copyright (c) Atomi Systems, Inc. All rights reserved.
- * https://atomisystems.com/activepresenter/
+ * Ace
+ * All rights reserved.
+ * https://aasif.com/aasif/
  * Version: 8.5.0
  * Date: 2021.06.02
  */
