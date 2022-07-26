@@ -1,0 +1,7 @@
+billing - Card Mapping---- Done 
+CCUpdate - OTP / Grid enable--- Not done..----Learn
+Address --  Card Upgrade  --- Done 
+Deliverable -- Stop cheque-- Done
+E-Mail --- Card blocking -- Done 
+Learn --- Reissue-- Done -----
+Upgrade --- E-Mail ID update----Billing 
